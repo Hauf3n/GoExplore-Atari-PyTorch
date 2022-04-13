@@ -1,0 +1,5 @@
+gym==0.15.4
+imageio==2.3.0
+matplotlib==2.2.3
+numpy==1.16.4
+opencv_python==3.4.1.15

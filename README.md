@@ -1,5 +1,5 @@
 # GoExplore-Atari-PyTorch
- Implementation of [First return, then explore](https://www.nature.com/articles/s41586-020-03157-9) by Adrien Ecoffet, Joost Huizinga, Joel Lehman, Kenneth O. Stanley, Jeff Clune. The result is a neural network policy that reaches a score of 2500 on the Atari environment MontezumaRevenge.<br><br>
+ Implementation of [First return, then explore](https://www.nature.com/articles/s41586-020-03157-9) (Go-Explore) by Adrien Ecoffet, Joost Huizinga, Joel Lehman, Kenneth O. Stanley, Jeff Clune. The result is a neural network policy that reaches a score of 2500 on the Atari environment MontezumaRevenge.<br><br>
 # Content 
 1. Exploration Phase with demonstration generation
 2. Robustification Phase (PPO + SIL + Backward algorithm)
